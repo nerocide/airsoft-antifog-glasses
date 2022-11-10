@@ -13,7 +13,7 @@ It is important to take the exact pair of google listed here, or the original.
 ## List of parts
 
 - [Chinese copy of Oakley SI ballistic](https://a.aliexpress.com/_EyxQSQt) (includes 1 fan and support)
-or
+- or
 - [Chinese copy of Oakley SI ballistic with helmet support](https://a.aliexpress.com/_EycWlfP) (no fan included)
 - 1 * [Buck converter](https://a.aliexpress.com/_EGvoNsp)
 - 1 * [5k potentiometer](https://a.aliexpress.com/_Exazmhr)

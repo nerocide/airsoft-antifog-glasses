@@ -15,7 +15,7 @@ Il est important de bien prendre ce modele exacte de lunettes, ou l'original.
 ## Liste des pièces
 
 - [Copie chinoise Oakley SI ballistic](https://a.aliexpress.com/_EyxQSQt) (avec un ventilateur inclus)
-or
+- ou
 - [Copie chinoise Oakley SI ballistic avec support casque](https://a.aliexpress.com/_EycWlfP) (sans ventilateur)
 - 1 * [Buck converter](https://a.aliexpress.com/_EGvoNsp)
 - 1 * [potentiometre 5k](https://a.aliexpress.com/_Exazmhr)
