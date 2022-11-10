@@ -1,53 +1,54 @@
 # airsoft-antifog-glasses
-Instructions how to build an antifog glasses for airsoft
+Instructions pour construire des lunettes d'airsoft sans buée
 
-## Purpose
+[English version here](README_EN.md)
 
-This build is based on Oakley SI ballistic glasses chinese copy
+## Propos
+
+Cet assemblage est basé sur une copie chinoise des lunettes Oakley SI ballistic
 
 
-## Disclaimer
+## A savoir
 
-It is important to take the exact pair of google listed here, or the original.
+Il est important de bien prendre ce modele exacte de lunettes, ou l'original.
 
-## List of parts
+## Liste des pièces
 
-- [Chinese copy of Oakley SI ballistic](https://a.aliexpress.com/_EyxQSQt) (includes 1 fan and support)
+- [Copie chinoise Oakley SI ballistic](https://a.aliexpress.com/_EyxQSQt) (avec un ventilateur inclus)
 or
-- [Chinese copy of Oakley SI ballistic with helmet support](https://a.aliexpress.com/_EycWlfP) (no fan included)
+- [Copie chinoise Oakley SI ballistic avec support casque](https://a.aliexpress.com/_EycWlfP) (sans ventilateur)
 - 1 * [Buck converter](https://a.aliexpress.com/_EGvoNsp)
-- 1 * [5k potentiometer](https://a.aliexpress.com/_Exazmhr)
-- 1 or 2 [Small Fan 21mm](https://a.aliexpress.com/_EwjtQF7) (depending on glasses bought)
-- Electric wires for fan and circuits connection
-- Output connectors for battery (ie: XT30)
-- Any 2S (7.4V) battery (Lipo/Lion....)
+- 1 * [potentiometre 5k](https://a.aliexpress.com/_Exazmhr)
+- 1 ou 2 [petit ventilateur de 21mm](https://a.aliexpress.com/_EwjtQF7) (suivant les lunettes achetées)
+- Fils electrique pour ventilateurs et circuit
+- 1 * connecteur externe pour batterie (ex: XT30)
+- batterie 2S (7.4V)  (Lipo/Lion....)
 
-## Tools required
+## Outils requis
 
-- Soldering iron
-- 3D printer for parts
-- Hotglue gun and glue
+- Fer à souder
+- Imprimante 3D printer pour les pièces
+- Colle chaude
 
-## Printed parts
+## Pièces imprimées
 
-- 1 or 2 * [fan support](printed_parts/Support%20ventilateur%20lunettes%20v66.stl) (1 or 2 depending on glasses bought)
-- 1 * [regulator case](printed_parts/boite%20r%C3%A9gulateur%20v14.stl)
+- 1 or 2 * [support ventilateur](printed_parts/Support%20ventilateur%20lunettes%20v66.stl) (1 ou 2 suivant les lunettes achetées)
+- 1 * [boite de regulateur](printed_parts/boite%20r%C3%A9gulateur%20v14.stl)
 
-## Assembly instructions
+## Instructions de montage
 
-- Print the necessary parts
-- Remove the blue potentiometer for the buck converter circuit
-- Bend exterior legs of potentiometer towards the center leg
-![like this](images/img_20221105_193055-1.jpg)
-- Solder the 5k potentiometer in place of the blue one
-- Cut electrical wires to length an solder them to fans
-- Solder both fans to the output of buck circuit
-- for a good flow make sur one fan pull air, and the other pushs it. Changing the side of the fan in the support might not produce a good result.
-- Solder input wire to the buck converter
-![You should have something like this](images/IMG_20221105_192808.jpg)
-- Put fans in fan support
-- Plug fan support on glasses
-- Route wires cleanly inside the googles (remove the screen to do so)
-- Test the assembly with a battery, so everything works as expected
-- Put buck converter circuit in the case (close is with superglue)
-
+- Imprimer les pièces nécessaires 
+- Retirez le potentiomètre bleu pour le circuit du convertisseur abaisseur 
+- Plier les pieds extérieurs du potentiomètre vers la jambe centrale 
+![comme ceci](images/img_20221105_193055-1.jpg) 
+- Souder le potentiomètre 5k à la place du potentiomètre bleu 
+- Couper les fils électriques à la longueur et les souder aux ventilateurs 
+- Souder les deux ventilateurs à la sortie du circuit abaisseur 
+- Pour un bon débit, faites en sorte qu'un ventilateur tire de l'air et que l'autre le pousse. Changer le côté du ventilateur dans le support pourrait ne pas produire un bon résultat.
+- Souder le fil d'entrée au convertisseur abaisseur
+![Vous devriez avoir quelque chose comme ça](images/IMG_20221105_192808.jpg) 
+- Mettre les fans en soutien aux fans 
+- Prise en charge du ventilateur sur les lunettes 
+- Acheminer les fils proprement à l'intérieur des googles (retirez l'écran pour le faire) 
+- Testez l'assemblage avec une batterie, afin que tout fonctionne comme prévu 
+- Mettez le circuit de convertisseur abaisseur dans le boîtier (fermer avec de la superglue)
