@@ -49,5 +49,5 @@ or
 - Plug fan support on glasses
 - Route wires cleanly inside the googles (remove the screen to do so)
 - Test the assembly with a battery, so everything works as expected
-- Put buck converter circuit in the case (close is with suyperglue)
+- Put buck converter circuit in the case (close is with superglue)
 
