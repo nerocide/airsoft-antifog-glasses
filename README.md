@@ -47,8 +47,8 @@ Il est important de bien prendre ce modele exacte de lunettes, ou l'original.
 - Pour un bon débit, faites en sorte qu'un ventilateur tire de l'air et que l'autre le pousse. Changer le côté du ventilateur dans le support pourrait ne pas produire un bon résultat.
 - Souder le fil d'entrée au convertisseur abaisseur
 ![Vous devriez avoir quelque chose comme ça](images/IMG_20221105_192808.jpg) 
-- Mettre les fans en soutien aux fans 
-- Prise en charge du ventilateur sur les lunettes 
+- Mettre les ventilateurs dans les supports de ventilateurs 
+- fixer les supports de ventilateurs sur les lunettes 
 - Acheminer les fils proprement à l'intérieur des googles (retirez l'écran pour le faire) 
 - Testez l'assemblage avec une batterie, afin que tout fonctionne comme prévu 
 - Mettez le circuit de convertisseur abaisseur dans le boîtier (fermer avec de la superglue)
